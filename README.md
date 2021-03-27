@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm <a href="https://joshmartindev.com/">Josh Martin</a>! 👋👋
 
-<!--
-**joshmartindev/joshmartindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and recent graduate (2021) focusing on Android Development.
 
-Here are some ideas to get you started:
+Find me on other social media: [![iconfinder_1_Twitter3_colored_svg_5296516](https://user-images.githubusercontent.com/36969364/112721421-a1df3100-8ed1-11eb-9d7a-7c538d145b14.png)](https://twitter.com/joshmartindev) [![iconfinder_1_Linkedin_unofficial_colored_svg_5296501](https://user-images.githubusercontent.com/36969364/112721522-38135700-8ed2-11eb-883d-9e930d05de4a.png)](https://linkedin.com/in/martinjoshua) [![iconfinder_1_Instagram_colored_svg_1_5296765](https://user-images.githubusercontent.com/36969364/112721548-685af580-8ed2-11eb-9ba3-2e1028bffbde.png)](https://instagram.com/joshmartindev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on a demonstration of beautiful android UI animations.
+- 🌱 I’m currently learning kotlin
+- 📫 You can reach me quickly [on twitter](https://twitter.com/joshmartindev).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a creative at heart and love simulation games like Planet Zoo and Planet Coaster
+
